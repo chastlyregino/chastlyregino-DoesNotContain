@@ -21,6 +21,6 @@ public class DoesNotContain {
             }
         }
         
-        return true;
+        return true; //how can I use `!(.contains())`?
     }
 }
